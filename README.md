@@ -11,13 +11,13 @@
 #### 作业描述
     本作业使用了红军长征四个方面军在中国境内的行进路线作为背景，反应了红军长征的艰辛。在清明时分致敬烈士。
 #### 作业链接
-    [作业2](https://whcpumpkin.github.io/geo_lines_background.html)
+   [作业2](https://whcpumpkin.github.io/geo_lines_background.html)
 
 ## 作业3
 #### 作业描述
    本作业使用了全国各省、特别行政区的大学数目的数据，展示了不同地区的大学数目差距，反应出教育资源的不平衡。
 #### 作业链接
-    [作业3](https://whcpumpkin.github.io/map_unv_num.html)
+   [作业3](https://whcpumpkin.github.io/map_unv_num.html)
 
 ## 作业4
 #### 作业描述
