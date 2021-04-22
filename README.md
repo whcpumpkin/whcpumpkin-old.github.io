@@ -27,3 +27,21 @@
    本作业杜撰了一位临近高考的学生，反应出他的高中三年6个学期的期中期末考试成绩、各科排名情况，以及每天的时间安排和高中剩余完成进度情况
 #### 作业链接
    [作业4](https://whcpumpkin.github.io/page_draggable_layout.html)
+
+## 作业5
+#### 作业描述
+   本作业使用了《水浒传》作为人物共现分析，使用了力导向图作为关系图。
+#### 作业链接
+   [作业5](https://whcpumpkin.github.io/关系图-水浒传.html)
+   
+## 作业6
+#### 作业描述
+   本作业实现了谷度搜索引擎，并且配上了一张自制的LOGO图
+#### 作业链接
+   [作业6](https://whcpumpkin.github.io/Googdu.html)
+  
+## 作业7
+#### 作业描述
+   本作业将本人的一个知乎回答进行了文本编辑，插入了小说的图片。并且对小说内容进行了一定点评。
+   知乎链接(https://www.zhihu.com/question/418656736/answer/1448481620)
+   [作业7](https://whcpumpkin.github.io/test.html)  
